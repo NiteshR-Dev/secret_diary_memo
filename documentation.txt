@@ -1,0 +1,7 @@
+Secret Notes
+
+objective: Log into your account and store memo's or notes, the notes can only be viewed by the people who logged into their account and no one else.
+
+
+-> Using Fernet to encrypt messages.
+
