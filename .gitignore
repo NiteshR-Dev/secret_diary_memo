@@ -1,3 +1,11 @@
 /s_notes_env
 /.pytest_cache
 /tests/__pycache__
+/Repository/__pycache__
+/__pycache__
+/users.txt
+/.vscode
+/Data/__pycache__
+/Service/__pycache__
+Example.db
+Data/example_db.db
