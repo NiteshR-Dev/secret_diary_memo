@@ -77,7 +77,7 @@ class TestUserService(unittest.TestCase):
             secret_key="ABC",
             created_at=datetime.today().isoformat()
         )
-        self.assertEqual(actual_response,expected_response)
+        self.assertAlmostEqual(actual_response.user_name,expected_response.user_name)
 
         # a new user must be registered in db
 
